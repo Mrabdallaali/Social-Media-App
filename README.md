@@ -22,7 +22,7 @@ This project focuses on building production-ready features such as authenticatio
 ## 🛠 Tech Stack
 
 ### Frontend
-- **Next.js 14** – React framework with server-side rendering and routing
+- **Next.js 14** – React framework with server side rendering and routing
 - **React 18** – Component-based UI development
 - **TypeScript** – Type safety and improved developer experience
 - **Redux Toolkit** – Predictable global state management
